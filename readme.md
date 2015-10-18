@@ -33,4 +33,4 @@ WEBアプリケーションのサンプルプログラムです。
 * Apache Maven 3.2.5
 * Gradle 2.1
 * Java SE Development Kit 8u25 (JDK 8 Update 25)
-* Apache Tomcat 8.0.18
+* Apache Tomcat 8.0.18 
